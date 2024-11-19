@@ -29,8 +29,8 @@ I’m a **Software Developer** specializing in **PHP**, **Laravel**, and **Vue.j
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=humayonkabirr&show_icons=true&locale=en&layout=compact" alt="Top Languages" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=humayonkabirr&show_icons=true&locale=en" alt="GitHub Stats" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=humayonkabirr&show_icons=true&locale=en&layout=redical" alt="Top Languages" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=humayonkabirr&show_icons=true&locale=en&layout=redical" alt="GitHub Stats" width="50%" />
 </div>
 
 ---
