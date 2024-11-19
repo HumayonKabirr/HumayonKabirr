@@ -35,6 +35,12 @@ I’m a **Software Developer** specializing in **PHP**, **Laravel**, and **Vue.j
 
 ---
 
+## 📈 GitHub Activity Graph
+
+![Kabir's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=humayonkabirr&theme=redical)
+
+---
+
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=humayonkabirr" alt="GitHub Streak Stats" width="60%" />
 </div>
