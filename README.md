@@ -1,4 +1,4 @@
-![I am full-stack web development.](https://media.licdn.com/dms/image/v2/D5616AQHtqukOOC9kQw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1729968577043?e=1737590400&v=beta&t=8ui4Qqk3q4eximddYKf2PxeX-tv_tJZ860HjUVXbI_E)
+![I am full-stack web development.](https://media.licdn.com/dms/image/v2/D5616AQH3x_g0v5iEfQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1729874102584?e=1737590400&v=beta&t=x4F22ej4QjgE0aLTvASnPTk4HVejxArQ6cEFDDtmg4Y)
 
 ### Hi there 👋, I am Humayon Kabir
 
@@ -10,9 +10,9 @@ I’m a **Software Developer** specializing in **PHP**, **Laravel**, and **Vue.j
 ## 🧑‍💻 About Me
 
 - 💼 **Software Developer** at **Radisson Digital Technologies**
-- 🌍 **Portfolio:** [Visit my portfolio](https://ishrat-zahan.github.io/ishrat_dev/)
-- 📫 **Email:** [humayonkabir.dev@gmail.com](mailto:humayonkabir.dev@gmail.com)
-- 📫 **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/humayonkabirr/)
+- 🌍 **Portfolio:** [Visit my portfolio](https://github.com/humayonkabirr)
+- 📫 **Email:** [humayonkobir8@gmail.com](mailto:humayonkobir8@gmail.com)
+- 📫 **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/humaayonkabir/)
 
  
 
