@@ -11,8 +11,8 @@ I’m a **Software Developer** specializing in **PHP**, **Laravel**, and **Vue.j
 
 - 💼 **Software Developer** at **Radisson Digital Technologies**
 - 🌍 **Portfolio:** [Visit my portfolio](https://ishrat-zahan.github.io/ishrat_dev/)
-- 📫 **Email:** [humayonkabir.dev@gmail.com](mailto:ishratzahan091@gmail.com)
-- 📫 **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/ishratzahan09/)
+- 📫 **Email:** [humayonkabir.dev@gmail.com](mailto:humayonkabir.dev@gmail.com)
+- 📫 **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/humayonkabirr/)
 
  
 
