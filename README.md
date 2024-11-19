@@ -29,12 +29,12 @@ I’m a **Software Developer** specializing in **PHP**, **Laravel**, and **Vue.j
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ishrat-zahan&show_icons=true&locale=en&layout=compact" alt="Top Languages" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=ishrat-zahan&show_icons=true&locale=en" alt="GitHub Stats" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=humayonkabirr&show_icons=true&locale=en&layout=compact" alt="Top Languages" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=humayonkabirr&show_icons=true&locale=en" alt="GitHub Stats" width="50%" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ishrat-zahan" alt="GitHub Streak Stats" width="60%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=humayonkabirr" alt="GitHub Streak Stats" width="60%" />
 </div>
